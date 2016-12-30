@@ -1,4 +1,4 @@
-= Vert.x Maven Starter
+= Vert.x Maven App42 Microsoft insight Sample application
 
 This project is a template to start your own Vert.x project using Apache Maven.
 
